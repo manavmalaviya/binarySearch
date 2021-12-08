@@ -1,0 +1,1 @@
+{"name":"Local: octaltodecimal","url":"g:\\C++\\DSA\\Functions\\octaltodecimal.cpp","tests":[{"id":1636013618866,"input":"70","output":"56"},{"id":1636013742273,"input":"144","output":"100"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\C++\\DSA\\Functions\\octaltodecimal.cpp","group":"local","local":true}

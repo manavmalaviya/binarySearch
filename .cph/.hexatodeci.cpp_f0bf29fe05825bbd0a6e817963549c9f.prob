@@ -1,0 +1,1 @@
+{"name":"Local: hexatodeci","url":"g:\\C++\\DSA\\Functions\\hexatodeci.cpp","tests":[{"id":1636016099858,"input":"BC4DC","output":"7995"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\C++\\DSA\\Functions\\hexatodeci.cpp","group":"local","local":true}
