@@ -11,7 +11,7 @@ using namespace std;
       string str= to_string(input);
       int deci =0;   
       int len=str.length() ;
-      for (int i =0; i <=len-1; i++)
+      for (int i =1; i <=len-1; i++)
       {
          char nchar[]={""};  
          nchar[0] = str[i];
