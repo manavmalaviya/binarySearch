@@ -23,9 +23,9 @@ using namespace std;
  int binaryToDecimal(int input)
  {
      int org =input;
-     int remen=0;
-     int num =0;
-     int power=1;
+     int remen=0,num=0, power=1;
+     
+     
      while(input<0)
      {
          remen=input%10;
